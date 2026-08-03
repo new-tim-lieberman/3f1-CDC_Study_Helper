@@ -10,20 +10,25 @@ computer below.
 
 ## Getting the app
 
-You should have received a folder called `3F1_CDC-Study`. Inside it there's a
-`dist` folder with two files:
+1. Go to the
+   [Releases page](https://github.com/new-tim-lieberman/3f1-CDC_Study_Helper/releases)
+   for this project.
+2. Under the newest release, click **Assets** to expand the list of
+   downloadable files.
+3. Download the one file that matches your computer:
+   - `3F1-CDC-Study-Windows.exe` — for Windows computers
+   - `3F1-CDC-Study-Mac` — for Mac computers (works on both older Intel Macs
+     and newer Apple Silicon Macs)
 
-- `3F1-CDC-Study-Windows.exe` — for Windows computers
-- `3F1-CDC-Study-Mac` — for Mac computers (works on both older Intel Macs and
-  newer Apple Silicon Macs)
-
-You only need the one that matches your computer. It's fine to move that one
-file to your Desktop if that's easier to find later.
+It's fine to move the downloaded file to your Desktop if that's easier to
+find later. You do **not** need to download anything else from this page —
+just that one file.
 
 ## Windows: how to run it
 
-1. Find `3F1-CDC-Study-Windows.exe` (in the `dist` folder, or wherever you
-   moved it) and **double-click it**.
+1. Find `3F1-CDC-Study-Windows.exe` wherever your browser saved it (usually
+   your **Downloads** folder, or the Desktop if you moved it there), and
+   **double-click it**.
 2. Windows may show a blue box that says "Windows protected your PC." This is
    normal for a new program — click **More info**, then click **Run
    anyway**.
@@ -32,30 +37,27 @@ file to your Desktop if that's easier to find later.
 
 ## Mac: how to run it
 
-Macs are stricter about running downloaded programs, so this takes a couple
-of extra steps the first time. After that, it's quick.
+Macs are stricter about running downloaded programs, so the first time takes
+a few extra steps. After that, it's quick.
 
 1. Open **Terminal**. Press `Command (⌘) + Space` to open Spotlight search,
    type `Terminal`, and press Enter. A window with text will open — this is
    normal, it's just a way to type commands to your computer.
-2. Type `cd ` (with a space after it), then **drag the `3F1_CDC-Study`
-   folder** from Finder into the Terminal window. It will paste the folder's
-   location automatically. Press Enter.
-3. The first time only, copy and paste this line into Terminal and press
-   Enter. This tells your Mac it's okay to run the file:
-   ```
-   xattr -d com.apple.quarantine dist/3F1-CDC-Study-Mac
-   ```
+2. Type `chmod +x ` (with a space after it), then **drag the downloaded
+   `3F1-CDC-Study-Mac` file** (it's probably in your Downloads folder) into
+   the Terminal window — this pastes its exact location. Press Enter. This
+   step gives the file permission to run.
+3. Type `xattr -d com.apple.quarantine ` (with a space), drag the same file
+   into the Terminal window again, and press Enter. This tells your Mac it's
+   okay to run a file you downloaded.
    If you see a message saying `No such xattr` — that's fine, it just means
-   this step wasn't needed on your Mac. You can move on to the next step.
-4. Now run the app by pasting this line and pressing Enter:
-   ```
-   ./dist/3F1-CDC-Study-Mac
-   ```
+   this step wasn't needed. Move on to the next step either way.
+4. Now run the app: drag the same file into Terminal one more time (with
+   nothing typed before it) and press Enter.
 5. The app will start printing text in the same window — follow the
    instructions on screen.
 
-Next time you want to study, you only need steps 1, 2, and 4 (step 3 is a
+Next time you want to study, you only need steps 1 and 4 (steps 2–3 are a
 one-time thing).
 
 ## How to use it
@@ -109,7 +111,8 @@ directly from source instead of the prebuilt binaries:
 go run .
 ```
 
-To rebuild the distributable binaries after making changes:
+To build the binaries locally instead of relying on the release workflow
+below:
 
 ```
 GOOS=windows GOARCH=amd64 go build -o dist/3F1-CDC-Study-Windows.exe .
@@ -117,6 +120,20 @@ GOOS=darwin GOARCH=arm64 go build -o dist/3F1-CDC-Study-mac-arm64 .
 GOOS=darwin GOARCH=amd64 go build -o dist/3F1-CDC-Study-mac-intel .
 lipo -create -output dist/3F1-CDC-Study-Mac dist/3F1-CDC-Study-mac-arm64 dist/3F1-CDC-Study-mac-intel
 ```
+
+`dist/` is gitignored — binaries aren't committed to the repo. Instead,
+`.github/workflows/release.yml` builds both binaries and publishes them to
+the [Releases page](https://github.com/new-tim-lieberman/3f1-CDC_Study_Helper/releases)
+automatically whenever a version tag is pushed:
+
+```
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+That's the link the "Getting the app" section above sends non-technical
+users to, so cut a tag (and get it merged/pushed) any time you want a new
+build available for download.
 
 To add more study questions, drop a new `moduleN.json` file into
 `internal/quiz/data/` following the format of the existing files. You can
