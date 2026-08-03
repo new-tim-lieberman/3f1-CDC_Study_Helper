@@ -1,0 +1,43 @@
+name: Release
+
+# Builds the Windows and Mac binaries and attaches them to a GitHub Release
+# whenever a version tag (e.g. v1.0.0) is pushed. See README.md for how
+# non-technical users download them from the Releases page.
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Build Windows binary
+        run: GOOS=windows GOARCH=amd64 go build -o dist/3F1-CDC-Study-Windows.exe .
+
+      - name: Build Mac universal binary
+        run: |
+          GOOS=darwin GOARCH=arm64 go build -o dist/3F1-CDC-Study-mac-arm64 .
+          GOOS=darwin GOARCH=amd64 go build -o dist/3F1-CDC-Study-mac-intel .
+          lipo -create -output dist/3F1-CDC-Study-Mac dist/3F1-CDC-Study-mac-arm64 dist/3F1-CDC-Study-mac-intel
+          rm dist/3F1-CDC-Study-mac-arm64 dist/3F1-CDC-Study-mac-intel
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            dist/3F1-CDC-Study-Windows.exe \
+            dist/3F1-CDC-Study-Mac \
+            --title "${{ github.ref_name }}" \
+            --generate-notes
