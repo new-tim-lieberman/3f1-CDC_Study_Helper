@@ -1,0 +1,206 @@
+{
+  "id": 3,
+  "name": "Module 3",
+  "questions": [
+    {
+      "question": "Who has the authority to alter the hours of operation of the fitness center?",
+      "choices": ["Fitness center director (FCD)", "Sustainment flight chief.", "Installation commander", "FC monitor"],
+      "answer": 2
+    },
+    {
+      "question": "What is the minimum number of hours per week an air force fitness facility will be open for business.",
+      "choices": ["60", "90", "120", "150"],
+      "answer": 1
+    },
+    {
+      "question": "What are three of the elements managers must consider when determining operational hours for the fitness center.",
+      "choices": ["Patrons, programs, and funding.", "Patrons, funding, and staff training requirements.", "Mission, Patrons, and staff training requirements.", "Mission, staff training requirements, and funding."],
+      "answer": 0
+    },
+    {
+      "question": "In the fitness center (FC), age limits are established to…",
+      "choices": ["Ensure a safe environment exists for all fitness center customers.", "Ensure youth coaches are available to supervise underage customers.", "Allow unlimited use for all age groups as long as supervision is available.", "Allow all family members unlimited use as long as supervision is available."],
+      "answer": 0
+    },
+    {
+      "question": "A sponsored guest in a force support squadron (FSS) facility has the same priority as…",
+      "choices": ["The sponsor.", "Provided by the hosting FSS flight.", "Provided by the installation commander.", "Provided by the major command (MAJCOM)"],
+      "answer": 0
+    },
+    {
+      "question": "Who can suspend or terminate eligible personnel's use of force support squadron (FSS) facilities or programs?",
+      "choices": ["FSS commander", "Installation commander", "Fitness center director (FCD)", "Major command (MAJCOM)"],
+      "answer": 1
+    },
+    {
+      "question": "What tool is used by a commander to determine the overall fitness of her/his military personnel?",
+      "choices": ["Fitness assessment", "The be well program.", "Fitness screening questionnaire", "Air Force fitness management system (AFFMS)"],
+      "answer": 0
+    },
+    {
+      "question": "Who is responsible for providing fitness status reports to the unit leadership?",
+      "choices": ["Supervisors", "Physical training leaders.", "Unit fitness program managers.", "Fitness Assessment Cell (FAC) augmented."],
+      "answer": 2
+    },
+    {
+      "question": "The proper temperature for the fitness center (FC) sauna is…",
+      "choices": ["110 to 120°F", "130 to 140°F", "150 to 160°F", "160 to 170°F"],
+      "answer": 3
+    },
+    {
+      "question": "Who should you involve in the daily general inspection of each piece of fitness equipment?",
+      "choices": ["Fitness staff and base civil engineering.", "Fitness staff and force support squadron commander.", "Fitness staff and users of the equipment.", "Users of equipment and base civil engineering."],
+      "answer": 2
+    },
+    {
+      "question": "Daily sanitation of weight room equipment consists of cleaning…",
+      "choices": ["Benches, floors, and seats only.", "Benches, equipment, and floors.", "Equipment, seats, pads, and benches only.", "Seats, pads, benches, and frames of machines."],
+      "answer": 3
+    },
+    {
+      "question": "What is used to clean corrosion from dumbbells and barbells and how often should you clean them?",
+      "choices": ["Steel wool; weekly.", "Steel wool; monthly.", "An approved cleaning solution; monthly", "An approved cleaning solution; per manufactures recommendation."],
+      "answer": 1
+    },
+    {
+      "question": "How long should it take the water film to dry up after damp mop application?",
+      "choices": ["A few seconds.", "A few minutes.", "Half an hour.", "Half a day."],
+      "answer": 0
+    },
+    {
+      "question": "How can you prevent illness associated with whirlpools?",
+      "choices": ["Drain the water and disinfect daily.", "Drain the water and disinfect weekly.", "Maintain proper temperature control and disinfect weekly.", "Maintain proper temperature control and follow the manufacturers manual."],
+      "answer": 1
+    },
+    {
+      "question": "How often should fitness center (FC) managers document emergency plan and procedures training?",
+      "choices": ["As mandated by the base fire chief.", "As required by the base operations plan.", "Quarterly and as new members are assigned.", "Semiannually ad as new members are assigned."],
+      "answer": 2
+    },
+    {
+      "question": "Fitness center (FC) members have to complete the air education and training command fitness specialist course within how many days of assignment?",
+      "choices": ["60", "90", "120", "180"],
+      "answer": 3
+    },
+    {
+      "question": "Which on-base agency can provide supplemental training for staff members working in fitness centers (FC)?",
+      "choices": ["Basic life support (BLS)", "American red cross.", "American heart association.", "Health Promotions."],
+      "answer": 3
+    },
+    {
+      "question": "What classes must be offered and marketed as part of the fitness improvement program (fip)?",
+      "choices": ["Aerobic and strength.", "Aerobic and spinning.", "Weigh lifting and aerobic", "Spinning and circuit training."],
+      "answer": 0
+    },
+    {
+      "question": "At a minimum, all contract personal instructors must have how many verified hours of individual fitness program experience.",
+      "choices": ["100", "90", "80", "70"],
+      "answer": 0
+    },
+    {
+      "question": "Who usually presents the awards and prizes at the end of the sports competition?",
+      "choices": ["Installation commander.", "Sustainment flight chief", "Fitness and sports manager", "Force support squadron (FSS) commander."],
+      "answer": 0
+    },
+    {
+      "question": "What is the cause of many common injuries?",
+      "choices": ["Overtraining.", "Exercising too little.", "A 2 to 3 percent water loss.", "Moderately increasing the workload."],
+      "answer": 0
+    },
+    {
+      "question": "What is a dislocation?",
+      "choices": ["Stretching and tearing of the muscle", "A painful injury to the soft tissue and bone.", "Sudden involuntary contraction of the muscle.", "The displacement of one or more bones of a joint."],
+      "answer": 3
+    },
+    {
+      "question": "What is the body's most important means for heat loss?",
+      "choices": ["Dehydration", "Exercising", "Humidity", "Sweating."],
+      "answer": 3
+    },
+    {
+      "question": "What is the best replacement fluid to use for exercise under 60 minutes?",
+      "choices": ["Soda", "Plain water", "Sport drinks", "Low sodium drinks"],
+      "answer": 1
+    },
+    {
+      "question": "What is the average number of bones in a human body?",
+      "choices": ["156", "186", "206", "236"],
+      "answer": 2
+    },
+    {
+      "question": "The end of bones are covered with a layer of cartilage called?",
+      "choices": ["Articular cartilage.", "Cancellous bone", "Compact bone", "Fontanel"],
+      "answer": 0
+    },
+    {
+      "question": "Where are the nerves and blood vessels located in bones?",
+      "choices": ["Within the endosperm", "Beneath the compact bone", "Within the medullar cavity.", "Beneath the cancellous bone."],
+      "answer": 2
+    },
+    {
+      "question": "Marrow is essential to the production of?",
+      "choices": ["Marrow cells", "Red blood cells", "New blood cells", "White blood cells."],
+      "answer": 2
+    },
+    {
+      "question": "The outermost layer that surrounds the actual muscle and attaches it to one surfaces is called the…",
+      "choices": ["Fascia", "Fascicles", "Perimysium", "endomysium"],
+      "answer": 0
+    },
+    {
+      "question": "The epimysium is located beneath the..",
+      "choices": ["Cardiac muscle", "Perimysium", "Fascicles", "Fascia."],
+      "answer": 3
+    },
+    {
+      "question": "What are the two manor types of smooth muscles?",
+      "choices": ["Cardiac and hollow.", "Hollow and visceral", "Multiunit and hollow", "Multiunit and visceral"],
+      "answer": 3
+    },
+    {
+      "question": "Which program encompasses the entire active duty population on an installation and is recreational in nature?",
+      "choices": ["Varsity", "Intramural.", "Extramural", "Armed forces sports"],
+      "answer": 1
+    },
+    {
+      "question": "What program is recreational in nature and usually includes department of defense (DOD) civilians and family members?",
+      "choices": ["Varsity", "Intramural", "Extramural.", "Higher level competition."],
+      "answer": 2
+    },
+    {
+      "question": "Which tournament is the most desirable if time and facilities are available?",
+      "choices": ["Round Robin", "Combination", "Single elimination", "Double elimination"],
+      "answer": 0
+    },
+    {
+      "question": "What is the disadvantage of the single elimination tournament?",
+      "choices": ["Every entry must be defeated twice.", "Every entry must be placed in their respective brackets", "25% percent of the players are eliminated in each round of the tournament.", "50% of the players are eliminated in each round of the tournament."],
+      "answer": 3
+    },
+    {
+      "question": "Which aspects do bylaws deal with?",
+      "choices": ["Protests and postponements.", "Make-up days and final remarks.", "Postponements and final remarks", "Final remarks and uniform requirements."],
+      "answer": 0
+    },
+    {
+      "question": "Who do you contact when water quality parameters fall outside acceptable ranges?",
+      "choices": ["Base civil engineers and bio-environmental", "Public health and civil engineers", "Bio-environmental and public health", "Base Civil engineers and base safety."],
+      "answer": 0
+    },
+    {
+      "question": "Lifeguards are required to have what certification?",
+      "choices": ["Lifesaving, first aid, and cardiopulmonary resuscitation(CPR).", "Lifesaving, self aid buddy care, and basic life support.", "Lifeguard certification, first aid, and CPR.", "Lifeguard certification, self aid buddy care, and CPR."],
+      "answer": 0
+    },
+    {
+      "question": "Who super chlorinates the pool?",
+      "choices": ["Base civil engineers", "Bioenviornmental", "Pool treatment manager.", "Fitness center staff"],
+      "answer": 2
+    },
+    {
+      "question": "What form is super chlorination annotated in?",
+      "choices": ["Air Force (AF) form 705", "AF Form 708", "Department of the Air Force (DAF) Form 780", "AF Form 758"],
+      "answer": 1
+    }
+  ]
+}

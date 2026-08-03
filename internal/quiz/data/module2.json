@@ -1,0 +1,456 @@
+{
+  "id": 2,
+  "name": "Module 2",
+  "questions": [
+    {
+      "question": "What is the first step to washing your hands?",
+      "choices": ["Wet", "Lather", "Scrub", "Rinse"],
+      "answer": 0
+    },
+    {
+      "question": "Finger nails will not extend ___ past the fingertip?",
+      "choices": ["¼ inch", "½ inch", "1 inch", "3/8 inch"],
+      "answer": 0
+    },
+    {
+      "question": "What Air Force Instruction (AFI) must be available in each facility in terms of sanitization?",
+      "choices": ["Department of the Air Force Instruction (DAFI) 48-117", "AFI 36-501", "AFI 10-201", "AFI 36-2618"],
+      "answer": 0
+    },
+    {
+      "question": "How many hours does the onset of food-borne intoxication (food poisoning) illness occur?",
+      "choices": ["1–2.", "2–4.", "4–6.", "6–8."],
+      "answer": 1
+    },
+    {
+      "question": "Symptoms of food-borne infection usually occur within",
+      "choices": ["1–2 hours.", "2–4 hours.", "4–12 hours.", "6–24 hours."],
+      "answer": 3
+    },
+    {
+      "question": "Into what groups are food-borne illnesses not divided?",
+      "choices": ["Chemical poisons", "Food-borne intoxication", "Food-borne infection", "Fungal infection"],
+      "answer": 3
+    },
+    {
+      "question": "Who approves the Hazard Analysis and Critical Control Point (HACCP) plan?",
+      "choices": ["Public Health", "Supervisors", "Commander", "Civil Engineering"],
+      "answer": 0
+    },
+    {
+      "question": "What is the term for cutting food into cube-like pieces?",
+      "choices": ["Dice", "Julienne", "Chop", "Wash"],
+      "answer": 0
+    },
+    {
+      "question": "What is the term for making shallow cuts across the top of a food item?",
+      "choices": ["Score", "Wash", "Baste", "Mince"],
+      "answer": 0
+    },
+    {
+      "question": "What are the results of progressive cooking?",
+      "choices": ["Improved use of food, time, and personnel", "Production of all the food at one time", "Saving money although at the expense of proper nutrition", "Finishes the job quickly so there is time to relax"],
+      "answer": 0
+    },
+    {
+      "question": "What contributes to plate waste?",
+      "choices": ["Poor portion control, unpopular dishes, and improper serving.", "Improved use of food, time, and personnel", "Pest or more specific, rodent infestation", "Low customer attendance"],
+      "answer": 0
+    },
+    {
+      "question": "What are the benefits of progressive cooking?",
+      "choices": ["Improves use of food, time, and personnel.", "Better use of leftovers and dining facility money.", "Improves customer satisfaction and speeds up customer flow.", "Standardization of serving sizes and determination of peak feeding periods."],
+      "answer": 0
+    },
+    {
+      "question": "What is a good tip to remember when applying progressive cooking?",
+      "choices": ["Only prepare all the food items when directed by the dining facility manager.", "Prepare all the food items as quickly as possible.", "Make sure you measure only the dry ingredients.", "Open canned items only as needed."],
+      "answer": 3
+    },
+    {
+      "question": "When producing large quantities of food, what is the most important management device?",
+      "choices": ["Proper serving techniques.", "Progressive cooking.", "Waste control.", "Planning."],
+      "answer": 2
+    },
+    {
+      "question": "Perishable foods should never remain in the temperature danger zone for more than how many hours?",
+      "choices": ["2.", "4.", "6.", "8."],
+      "answer": 1
+    },
+    {
+      "question": "What is the goal of the flight menu program?",
+      "choices": ["Nutritious meals that are attractively packaged.", "Choice of frozen menu items in a quality packaging system.", "Variety of healthy items delivered by flight kitchen personnel.", "Variety of prepackaged foods in an inexpensive packaging system."],
+      "answer": 0
+    },
+    {
+      "question": "Within how many hours after being issued must a sandwich meal be consumed?",
+      "choices": ["2.", "4.", "6.", "8."],
+      "answer": 1
+    },
+    {
+      "question": "At least how many menus should you prepare for flight meals in your facility?",
+      "choices": ["10.", "8.", "6.", "4."],
+      "answer": 2
+    },
+    {
+      "question": "What management tool is available for planning and serving flight and ground support meals?",
+      "choices": ["The preface to the worldwide menu (WWM)", "The production log", "Applying leftover procedures", "Storeroom operations"],
+      "answer": 0
+    },
+    {
+      "question": "How many large menus are offered according to the worldwide menu (WWM) preface?",
+      "choices": ["11.", "9.", "7.", "5."],
+      "answer": 1
+    },
+    {
+      "question": "During a long flight, which meal can you serve as a sandwich meal?",
+      "choices": ["The last meal.", "The first meal.", "Lunch and dinner.", "Breakfast and lunch."],
+      "answer": 1
+    },
+    {
+      "question": "Which meal-type service has a set meal rate plus the operational charge?",
+      "choices": ["Buffet.", "Holiday.", "À la carte.", "Traditional."],
+      "answer": 0
+    },
+    {
+      "question": "Enlisted members receiving the meal portion of per diem are authorized to use the dining facility",
+      "choices": ["at no charge.", "as cash-paying customers.", "at the installation commander's discretion.", "when the installation commander determines other facilities are not available."],
+      "answer": 1
+    },
+    {
+      "question": "How many days of emergency rations (meals, ready to eat [MRE]) are authorized units allowed to purchase?",
+      "choices": ["One.", "Two.", "Three.", "Four."],
+      "answer": 1
+    },
+    {
+      "question": "If it is not feasible to obtain signatures in the base dining facilities during emergencies, who certifies the number of meals furnished?",
+      "choices": ["Food service officer.", "Force support commander.", "Mission support group commander.", "Installation commander."],
+      "answer": 2
+    },
+    {
+      "question": "What are the two types of Department of Defense (DOD) meal rates?",
+      "choices": ["Standard and special.", "Standard and normal.", "Discount and normal.", "Discount and standard."],
+      "answer": 3
+    },
+    {
+      "question": "What is one of the biggest problems facing managers in food service facilities?",
+      "choices": ["Communication.", "Managing shifts.", "Lack of meetings.", "Training personnel."],
+      "answer": 0
+    },
+    {
+      "question": "What is the key to a successful food service operation?",
+      "choices": ["Properly trained and effective supervisors.", "Proper budgeting for equipment.", "New equipment in the kitchen.", "One hundred percent manning of personnel."],
+      "answer": 0
+    },
+    {
+      "question": "What should shift leaders accomplish to start their day?",
+      "choices": ["Mentoring and training.", "On-the-job training (OJT).", "Complete the Department of Defense (DD) Form 2973, Food Operation Inspection Report.", "Complete the Air Force (AF) Form 1119, Monthly Monitor Record."],
+      "answer": 2
+    },
+    {
+      "question": "A good menu must be",
+      "choices": ["practical and acceptable.", "simple and eye appealing.", "practical and cost effective.", "acceptable and eye appealing."],
+      "answer": 0
+    },
+    {
+      "question": "The operational advantages of the cyclic menu in menu planning include.",
+      "choices": ["providing flexibility in menu planning.", "allowing customers to plan their meals in advance.", "allowing managers time to devote to the customers.", "providing food service personnel additional time for themselves."],
+      "answer": 0
+    },
+    {
+      "question": "Which is not a criterion for which managers can change core menu components?",
+      "choices": ["Satisfy the preferences of your guests.", "Provide choices to accommodate religious observances.", "Adjust stock levels to take advantage of vendor seasonal sales.", "Add culturally diverse or specialty meals or increase menu variety."],
+      "answer": 2
+    },
+    {
+      "question": "According to the preface to the worldwide menu (WWM), what is mandatory for omelets and scrambled eggs?",
+      "choices": ["At least six choices available.", "Use fresh eggs whenever possible.", "Use liquid-style, reduced-cholesterol eggs.", "Omelets must be cooked to order; scrambled eggs can be pre-cooked."],
+      "answer": 2
+    },
+    {
+      "question": "The variety offered in your meals is subject to the",
+      "choices": ["size of the operation.", "size of the serving line.", "preference of the staff.", "preference of the guest."],
+      "answer": 1
+    },
+    {
+      "question": "Holidays meals give the dining facility a chance to",
+      "choices": ["push out slow stock.", "show off skills and pride.", "test out new food items.", "meet guest special needs."],
+      "answer": 1
+    },
+    {
+      "question": "Which meal menu can you change to support the corresponding holiday?",
+      "choices": ["Air Force Birthday.", "Thanksgiving.", "Christmas.", "4th of July."],
+      "answer": 3
+    },
+    {
+      "question": "Who fills in the projected headcount on the production log?",
+      "choices": ["Cashier.", "Shift leader/personnel.", "Storeroom personnel.", "Facility manager."],
+      "answer": 3
+    },
+    {
+      "question": "At least how many weeks in advance do storeroom personnel review a production log?",
+      "choices": ["1.", "2.", "3.", "4."],
+      "answer": 0
+    },
+    {
+      "question": "At least how many hours in advance should a shift leader review a production log?",
+      "choices": ["96.", "72.", "48.", "24."],
+      "answer": 1
+    },
+    {
+      "question": "When rating food service operations on the Air Force Information Management Tool (IMT) 1038, Food Service Evaluation Record, which category is allotted the most points?",
+      "choices": ["Management.", "Serving and dining.", "Kitchen operations.", "Training, personnel, and readiness."],
+      "answer": 2
+    },
+    {
+      "question": "What area is not evaluated in Category (Cat)-A of the Air Force Information Management Tool (IMT) 1038, Food Service Evaluation Record?",
+      "choices": ["Recipe use.", "Progressive cooking.", "Food production logs.", "Food display and serving temperatures."],
+      "answer": 3
+    },
+    {
+      "question": "What is the rating scale for each category on the Air Force Information Management Tool (IMT) 1038, Food Service Evaluation Record?",
+      "choices": ["Poor to excellent.", "Fair to outstanding.", "Poor to outstanding.", "Unsatisfactory to satisfactory."],
+      "answer": 2
+    },
+    {
+      "question": "To initiate an account for the Back of the House (BOH) Automated System and Subsistence Total Ordering and Receipt Electronic System (STORES) Web, who is needed to be contacted?",
+      "choices": ["Air Force Services Center (AFSVC/SVOF) office", "Major Command (MAJCOM)", "Defense Logistics Agency (DLA)", "Aloha representative"],
+      "answer": 0
+    },
+    {
+      "question": "What are the two main components of the Back of the House (BOH)?",
+      "choices": ["Configuration center and Aloha Enterprise", "Cash registers and cashier", "Storeroom manager and Subsistence Total Ordering and Receipt Electronic System (STORES) Web", "Front of the house (FOH) and Aloha Enterprise"],
+      "answer": 0
+    },
+    {
+      "question": "What is the Front of the House (FOH) also known as?",
+      "choices": ["The cash registers", "Aloha Enterprise", "Crunchtime", "Point of sale (POS) systems"],
+      "answer": 0
+    },
+    {
+      "question": "What is the easiest way to level up your training?",
+      "choices": ["Recipe cards", "Production log", "Studying", "Progressive cooking"],
+      "answer": 0
+    },
+    {
+      "question": "What are the three ways recipe cards can be located in Net-Chef?",
+      "choices": ["keyword, attributes, components", "keyword, recipe, components", "recipe, attributes, components", "recipe, reports, components"],
+      "answer": 0
+    },
+    {
+      "question": "What is not one of the purposes recipe cards serve?",
+      "choices": ["Improves time management", "Ensures meal consistency", "Provides accurate pricing of items", "Supplies detailed instructions on how to prepare food"],
+      "answer": 0
+    },
+    {
+      "question": "What is the first step when manually adjusting a recipe yield?",
+      "choices": ["Obtain a working factor by dividing the number of servings needed by 50", "Obtain a working factor by dividing the number of servings needed by 100", "Obtain a working dividend by multiplying the number of servings needed by 50", "Obtain a working dividend by multiplying the number of servings needed by 100"],
+      "answer": 1
+    },
+    {
+      "question": "What is the second step to manually converting a recipe to a specific number of portions?",
+      "choices": ["Break down the ingredients into weights and measures.", "Break down the ingredients from decimals to fractions.", "Obtain a working factor by dividing the portions by 100.", "Obtain a working factor by multiplying the portions by 100."],
+      "answer": 0
+    },
+    {
+      "question": "Potatoes should be considered a \"weight\" in a recipe because potatoes can be",
+      "choices": ["weighed on a scale.", "measured with a spoon.", "cooked with the skin on.", "measured in a measuring cup."],
+      "answer": 0
+    },
+    {
+      "question": "What is a liquid ingredient that you can measure with a cup or spoon known as?",
+      "choices": ["measure", "solid", "gallon", "quart"],
+      "answer": 0
+    },
+    {
+      "question": "How many quarts equal one gallon?",
+      "choices": ["4", "5", "8", "16"],
+      "answer": 0
+    },
+    {
+      "question": "How do you obtain a converted weight of an ingredient?",
+      "choices": ["Multiply the working factor by the weight of each ingredient.", "Divide the working factor by the weight of each ingredient.", "Subtract the working factor from the ingredient.", "Multiply the weight of each ingredient by 100."],
+      "answer": 0
+    },
+    {
+      "question": "What is the equivalent of one gallon?",
+      "choices": ["2 pints.", "4 pints.", "2 quarts.", "4 quarts."],
+      "answer": 3
+    },
+    {
+      "question": "How many tablespoons (tbsp) are in one cup?",
+      "choices": ["4.", "16.", "32.", "48."],
+      "answer": 1
+    },
+    {
+      "question": "What type of ingredients are considered \"measures\" in a recipe?",
+      "choices": ["Diced chicken.", "Solid shortening.", "Frozen vegetables.", "Small quantities of spices."],
+      "answer": 3
+    },
+    {
+      "question": "When inspecting and receiving subsistence, if the vendor adds or deletes subsistence on the receipt, who must initial the delivery ticket to acknowledge the changes?",
+      "choices": ["Shift leader.", "Storeroom personnel.", "Dining facility manager.", "Food service officer."],
+      "answer": 1
+    },
+    {
+      "question": "What is a tool to help you improve the quality of subsistence received by highlighting problems with subsistence received?",
+      "choices": ["Corporate Food Service (CFS).", "Customer Complaint Report (CCR).", "Unsatisfactory Material Report (UMR).", "Unsatisfactory Subsistence Report (USR)."],
+      "answer": 2
+    },
+    {
+      "question": "What is a good use of a galvanized container in the dining facility?",
+      "choices": ["Making coffee.", "Storing dry foods.", "Mixing lemonade.", "Marinating chicken."],
+      "answer": 1
+    },
+    {
+      "question": "At what temperatures must fresh meats and poultry be stored?",
+      "choices": ["32–36° F.", "36–40° F.", "38–42° F.", "40–44° F."],
+      "answer": 0
+    },
+    {
+      "question": "At what maximum temperature should you thaw frozen foods in a refrigerator?",
+      "choices": ["30° F.", "35° F.", "40° F.", "45° F."],
+      "answer": 2
+    },
+    {
+      "question": "What is a proper way to store semi-perishable items?",
+      "choices": ["In direct sunlight.", "At room temperature.", "With limited ventilation.", "4 inches above the floor."],
+      "answer": 1
+    },
+    {
+      "question": "What is the cardinal rule for stock control?",
+      "choices": ["First in, first out (FIFO).", "First in, last out (FILO).", "Last in, first out (LIFO).", "Follow the production log."],
+      "answer": 0
+    },
+    {
+      "question": "Which frozen vegetables should you thaw before cooking?",
+      "choices": ["Corn on the cob and leafy vegetables.", "Green beans and corn on the cob.", "Lima beans and peas.", "Carrots and peas."],
+      "answer": 0
+    },
+    {
+      "question": "Who determines whether a special physical inventory is taken at any other time during the month?",
+      "choices": ["Storeroom manager.", "Food service section chief.", "Resources flight chief.", "Sustainment flight chief."],
+      "answer": 1
+    },
+    {
+      "question": "When do you conduct internal physical inventories?",
+      "choices": ["When a discrepancy is discovered.", "After receiving an order.", "Twice a month.", "Once a month."],
+      "answer": 2
+    },
+    {
+      "question": "Once the fiscal year (FY) inventory is conducted, who enters the counts into the automated system?",
+      "choices": ["Shift workers.", "Storeroom personnel.", "Disinterested personnel.", "Dining facility manager."],
+      "answer": 1
+    },
+    {
+      "question": "Who signs the count sheet, certifying the inventory is correct?",
+      "choices": ["Dining facility manager only.", "Dining facility manager and inventory officer.", "Storeroom personnel and dining facility manager.", "Disinterested personnel and storeroom personnel."],
+      "answer": 1
+    },
+    {
+      "question": "Who conducts the fiscal year (FY) inventory in the dining facility?",
+      "choices": ["Storeroom personnel.", "Dining facility manager.", "Disinterested personnel outside of food service.", "Disinterested personnel hired by contracting."],
+      "answer": 2
+    },
+    {
+      "question": "What do we use in food service to forecast our subsistence needs?",
+      "choices": ["Automated system.", "Ingredient forecast report.", "Subsistence recap.", "Ingredient recap."],
+      "answer": 0
+    },
+    {
+      "question": "Who designates in writing which personnel can have access to the storeroom?",
+      "choices": ["Squadron commander.", "Resource management flight chief.", "Food service section chief.", "Facility manager."],
+      "answer": 2
+    },
+    {
+      "question": "Where do threats to food and water (FW) assets come from?",
+      "choices": ["Hate groups.", "Public health.", "Dissatisfied patrons.", "Subsistence vendors."],
+      "answer": 0
+    },
+    {
+      "question": "Which is not a role of the prime vendor (PV) account representative?",
+      "choices": ["Ensures information is current and constant.", "Develops requirements for cataloging.", "Oversees the PV program.", "Approves all subsistence orders."],
+      "answer": 3
+    },
+    {
+      "question": "To whom do you speak to first if you are having problems with the quality or timeliness of food deliveries?",
+      "choices": ["Defense Logistics Agency (DLA) troop support manager.", "Major command (MAJCOM) representative.", "Food service officer (FSO).", "Prime vendor (PV)."],
+      "answer": 3
+    },
+    {
+      "question": "How soon after placing a prime vendor (PV) order will the subsistence be received?",
+      "choices": ["24 hours.", "48 hours.", "1 week.", "12 days."],
+      "answer": 1
+    },
+    {
+      "question": "How many hours after placing an order through the Subsistence Total Ordering and Receipt Electronic System (STORES) Web should you receive a delivery?",
+      "choices": ["24.", "36.", "48.", "72."],
+      "answer": 2
+    },
+    {
+      "question": "The Subsistence Total Ordering and Receipt Electronic System (STORES) Web was designed to",
+      "choices": ["replace the manual ordering process.", "ensure subsistence delivery within 48 hours.", "deliver brand-name subsistence to Air Force (AF) dining facilities.", "automate all installation-level subsistence ordering and receipting."],
+      "answer": 3
+    },
+    {
+      "question": "What is a quick reference to what items on the Defense Logistics Agency (DLA) Troop Support catalog can be ordered?",
+      "choices": ["Worldwide menu (WWM) preface.", "Air Force (AF) worldwide menu.", "AF production.", "AF core items"],
+      "answer": 3
+    },
+    {
+      "question": "Who is responsible for linking items and importing catalogs from Subsistence Total Ordering and Receipt Electronic System (STORES) Web into the automated system?",
+      "choices": ["Prime vendor (PV).", "Store room personnel.", "Food service accountant.", "Air Force Services Activity/Food Service Branch (AFSVA/SVOFA)."],
+      "answer": 3
+    },
+    {
+      "question": "What is the number one rule for a storeroom clerk?",
+      "choices": ["Sign for all subsistence scheduled for delivery.", "Sign only for what you actually receive.", "Assist the shift as needed.", "Turn in receipts on time."],
+      "answer": 1
+    },
+    {
+      "question": "The duties of a storeroom clerk do not include",
+      "choices": ["ensuring food is controlled from the time of receipt until served.", "ensuring the right quantities of food are prepared.", "recording all food transferred between facilities.", "keeping high-dollar storage areas secured."],
+      "answer": 1
+    },
+    {
+      "question": "Food orders should be sent to the prime vendor (PV) two duty days before the required delivery date to ensure",
+      "choices": ["the vendor can offer a substitute if an item is not in stock.", "manual ordering is done in the event the computers are inoperable.", "the stockroom personnel have room to store the items upon receipt.", "alternative means of delivery are available in case of an emergency."],
+      "answer": 0
+    },
+    {
+      "question": "The storeroom manager and dining facility manager must review all prime vendor (PV) orders by when?",
+      "choices": ["One week before the order is sent.", "The business day the order is received.", "Close of business the day after the order is sent.", "Close of business the day before the order is sent."],
+      "answer": 3
+    },
+    {
+      "question": "What does the cash sales summary report display?",
+      "choices": ["Usage of an item that exceeds the on-hand inventory.", "Projected sales headcount for the current meal period.", "Gross sales and sales details for each register on each day and time period.", "Data from all facilities on base and provide centralized reporting."],
+      "answer": 2
+    },
+    {
+      "question": "Which form is used to account for all types of meals, to include flight meals, and record cash collected for them?",
+      "choices": ["Air Force (AF) Form 1119A, Field Feeding Manual Monthly Monetary Report.", "AF Form 79, Headcount Record (Storage Safeguard Form).", "AF Form 1305, Receipt for Transfer of Cash and Vouchers.", "Department of Defense (DD) Form 1131, Cash Collection Voucher"],
+      "answer": 0
+    },
+    {
+      "question": "Which form verifies the total amounts of cash collected and essential station messing (ESM) personnel served?",
+      "choices": ["Air Force (AF) Information Management Tool (IMT) 1254, Register of Cash Collection Sheets.", "AF Form 954, Summary of Physical Property Data.", "AF Form 79, Headcount Record (Storage Safeguard Form).", "Department of Defense (DD) Form 1254, Register of Cash Collection Sheets."],
+      "answer": 2
+    },
+    {
+      "question": "Any cash overages and shortages are reported by",
+      "choices": ["completing an Air Force (AF) Information Management Tool (IMT) 1254, Register of Cash Collection Sheets.", "making an entry on an AF Form 1305, Receipt for Transfer of Cash and Vouchers.", "completing a Department of Defense (DD) Form 1131, Cash Collection Voucher.", "sending an e-mail to the food service officer (FSO)."],
+      "answer": 2
+    },
+    {
+      "question": "In non-automated facilities, what document is used for all transfers?",
+      "choices": ["Air Force (AF) Information Management Tool (IMT) 3516, Food Service Inventory Transfer Receipt.", "AF IMT 3514, Inventory Count Worksheet.", "Transfer Reconciliation Report.", "Transfer History Report."],
+      "answer": 0
+    },
+    {
+      "question": "How is food transferred out to another automated facility processed in the automated system?",
+      "choices": ["Location Transfer.", "Inventory Entry.", "Invoice Transfer.", "Subsistence Transfer."],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "id": 1,
+  "name": "Module 1",
+  "questions": [
+    {
+      "question": "Training for the services Journeyman 5 level primarily consists of…",
+      "choices": ["The fitness specialist course.", "On-the-job training (OJT)", "Shift leader mobile training", "Journeyman leadership course."],
+      "answer": 1
+    },
+    {
+      "question": "Which is not a mandatory 5-skill-level upgrade requirement?",
+      "choices": ["Completion of the services apprentice course.", "Minimum of 12 months on-the-job training (OJT).", "Accomplishment of all home station training requirements.", "Training certification of all applicable tasks on the master task listing (MTL)"],
+      "answer": 2
+    },
+    {
+      "question": "Within how many months of enrollment do individuals in journeyman (5-skill level) upgrade training (UGT) have to complete their career development courses (CDC)?",
+      "choices": ["13", "15", "17", "19"],
+      "answer": 1
+    },
+    {
+      "question": "What is the minimum rank Airmen must attain before becoming a superintendent?",
+      "choices": ["Technical sergeant (TSgt)", "Master sergeant (MSgt)", "Senior master sergeant (SMSgt)", "Chief master sergeant (CMSgt)"],
+      "answer": 2
+    },
+    {
+      "question": "Qualification training is designed to qualify an Airman..",
+      "choices": ["Beyond the required minimum requirement of the Air Force specialty (AFS).", "In a specific duty position", "To upgrade to the 5-skill level.", "In all required tasks."],
+      "answer": 1
+    },
+    {
+      "question": "What does part 1, section C, of the career field education and training plan (CFETP) describe?",
+      "choices": ["Mandatory training requirements for each skill level.", "Duties and information", "Resource constraints.", "General information."],
+      "answer": 0
+    },
+    {
+      "question": "What does part 2 of the career field education and training plan (CFETP) not provide.",
+      "choices": ["Major command (MAJCOM) unique training requirements.", "Available support materials.", "Course objectives list.", "Resource Constraints."],
+      "answer": 3
+    },
+    {
+      "question": "Which document is designed to help training managers and trainers conduct effective, standardized on-the-job-training (OJT) throughout the services career field?",
+      "choices": ["Career field education and training plan (CFETP)", "Specialty training standard (STS)", "Services training aids (STA)", "Career field standards (CFS)"],
+      "answer": 2
+    },
+    {
+      "question": "How is the decision to train specific task and knowledge items in an initial skills course made?",
+      "choices": ["Subject matter expert's (SME) inputs only.", "A review of the occupational analysis report (OAR) data only.", "By the career field manager (CFM) based on his or her experiences.", "A review of the occupational analysis report (OAR) data and subject matter experts (SME) inputs."],
+      "answer": 3
+    },
+    {
+      "question": "What is the minimum number of months required for on-the-job training (OJT) prior to the 7-skill-level upgrade?",
+      "choices": ["9", "12", "15", "18"],
+      "answer": 1
+    },
+    {
+      "question": "The career field education and training plan (CFETP) provides all of the following information except.",
+      "choices": ["A clear career path to success", "Life-cycle education/training requirements.", "A clear path to instill a sense of industry in career field training.", "Minimum core task requirements for the associated air force specialty. (AFS)"],
+      "answer": 2
+    },
+    {
+      "question": "The specialty training standards (STS) serve as a contract between _________________________ and the functional user to show which of the overall training requirements for an Air Force specialty code (AFSC) are taught in formal schools and correspondence courses?",
+      "choices": ["Air combat command (ACC)", "Air mobility command (AMC)", "Air Force Material Command (AFMC)", "Air Education and Training command (AETC)"],
+      "answer": 3
+    },
+    {
+      "question": "Trainers are selected based on their",
+      "choices": ["Time in grade.", "Motivation.", "Experience", "Rank."],
+      "answer": 2
+    },
+    {
+      "question": "Who has the single greatest impact on mission accomplishment?",
+      "choices": ["Supervisors", "Trainees", "Trainers", "Commanders"],
+      "answer": 0
+    },
+    {
+      "question": "We are required to rotate through at least two of the five core areas in services prior to the award of the.",
+      "choices": ["9 level", "7 level", "5 level", "3 level"],
+      "answer": 1
+    },
+    {
+      "question": "Which is not a duty or responsibility of a services specialist?",
+      "choices": ["Managing force support squadron (FSS) functions.", "Performing FSS operations.", "Documenting FSS functions", "Inspecting and evaluations FSS activities"],
+      "answer": 2
+    },
+    {
+      "question": "An Administrative assistant prepares research and documentation for another department. What type of customer does the assistant serve?",
+      "choices": ["Internal customer", "External customer", "None, the work is being done for the same company.", "All the above."],
+      "answer": 0
+    },
+    {
+      "question": "What are the keys to a functional, positive team?",
+      "choices": ["Structure", "Diversity", "Relationships", "All the above."],
+      "answer": 2
+    },
+    {
+      "question": "In the 'culture' element of customer service, what is NOT a method of creating a customer service culture?",
+      "choices": ["Understanding what an organization stands for — its goals, mission, and vision.", "Establishing expected behaviors that are attached to the organization's policy guidance.", "Training.", "Building a solid foundation with a good understanding of meaning and purpose."],
+      "answer": 1
+    },
+    {
+      "question": "When developing a master task listing (MTL), who determines which tasks in the specialty training standard (STS) apply to their specific mission?",
+      "choices": ["Individual", "Supervisor", "Flight chief", "Training manager"],
+      "answer": 1
+    },
+    {
+      "question": "Which is not an advantage of developing a master training listing (MTL)?",
+      "choices": ["All task requirements are listed in one place.", "The task requirements have to memorized.", "Promotes program continuity by allowing everyone to know what the requirements are.", "The MTL can be broken down to show what tasks and skill levels are required for specific duty positions."],
+      "answer": 1
+    },
+    {
+      "question": "What is one eligibility requirement to apply for Air Force Credentialing opportunities on-line (AF COOL)?",
+      "choices": ["Are not on a control roster (although exceptions when having an unfavorable information file (UIF)), and are current on their most recent fitness test during and after time of application.", "Must obtain commander approval to complete part of the credential while on active duty status.", "Possession of a 5-skill level in their primary Air Force specialty code", "Have a profile in the Air Force Virtual Education Center (AFVEC) with an approved degree plan."],
+      "answer": 2
+    },
+    {
+      "question": "What does the term \"Credential\" refer to in reference to Air Force (AF) development.",
+      "choices": ["Required training for promotion.", "Any professional certification, licensure, or registry.", "Rank, time in grade (TIG), time in service (TIS) to meet Air Force mission requirements.", "Put simply your degree plan."],
+      "answer": 1
+    },
+    {
+      "question": "What training must Airmen have for basic Airman and deployment readiness?",
+      "choices": ["Home station training", "Customer service training", "Search and recovery training", "Airman family readiness training"],
+      "answer": 0
+    },
+    {
+      "question": "How often are individual and program awards awarded?",
+      "choices": ["Weekly", "Monthly", "Quarterly", "Annually"],
+      "answer": 3
+    },
+    {
+      "question": "Which force support awards are the most prestigious in the A1 community?",
+      "choices": ["A1 special Recognition", "Individual Legacy", "A1 Community", "Installation"],
+      "answer": 1
+    },
+    {
+      "question": "Which award's scope does not lend itself to a particular function or activity?",
+      "choices": ["A1 special Recognition", "Individual Legacy", "A1 Community", "Installation"],
+      "answer": 1
+    },
+    {
+      "question": "What force support recognition program recognizes excellence in Air Force (AF) food service?",
+      "choices": ["AF Innkeeper Award", "John L. Hennessy Trophy", "12 Outstanding Airmen of the Year Award", "Lieutenant General Norm Levy Services Award"],
+      "answer": 1
+    },
+    {
+      "question": "Nomination packages for the John L. Hennessy Trophy consist of Air Force (AF) form 1206, Nomination for award, and AF information management tool (IMT)",
+      "choices": ["977, Critical item checklist.", "1038, Food Service Evaluation Record.", "1650, Dining Facility Hall Record.", "3587, Quarterly healthy Choice Checklist."],
+      "answer": 1
+    },
+    {
+      "question": "The purpose of the force support awards and recognition program is to",
+      "choices": ["Recognize our best performers and best installation-level programs.", "Employ personnel at major command (MAJCOM) positions.", "Ensure promotion to next rank is achieved.", "Ensure qualification to next skill level."],
+      "answer": 0
+    },
+    {
+      "question": "What form is used to request for ground transportation support?",
+      "choices": ["Air Force (AF) form 868", "Air Force (AF) form 938", "Department of Defense (DD) Form 578", "Air Force (AF) Form 301"],
+      "answer": 0
+    },
+    {
+      "question": "Who measures and evaluates the work or services provided by contractors?",
+      "choices": ["Unit Commander", "Functional Area Manager (FAM)", "Contractor Officer Representative (COR)", "Resource Manager"],
+      "answer": 2
+    },
+    {
+      "question": "After being trained, what documents should the contractor officer representative (COR) be familiar with?",
+      "choices": ["Blank purchase statement, unit manning document, non appropriated fund instrumentality.", "Quality assurance personnel (QAP), quality assurance evaluator (QAE), statement of work (SOW)", "Phase 1 and 2 training", "Statement of work (SOW), service delivery summary (SDS), quality assurance surveillance plan (QASP)."],
+      "answer": 3
+    },
+    {
+      "question": "Which organization allocates appropriated fund (APF) money?",
+      "choices": ["Army and Air Force Exchange Service (AAFES)", "Non-appropriated funds instrumentalities (NAFI) office.", "Commissary", "Congress"],
+      "answer": 3
+    },
+    {
+      "question": "At what initial dollar amount are procurement funds reserved for?",
+      "choices": ["$50,000", "$40,000", "$30,000", "$20,000"],
+      "answer": 0
+    },
+    {
+      "question": "Operations and maintenance (O&M) funds are used to",
+      "choices": ["Renovate facilities", "Conduct day-to-day operations", "Purchase equipment costing $50,000 or more", "Perform only essential operations as determined by service personnel."],
+      "answer": 1
+    },
+    {
+      "question": "At what organization level are procurement funds controlled?",
+      "choices": ["Flight", "Squadron", "Installation", "Major command"],
+      "answer": 3
+    },
+    {
+      "question": "When establishing goals for the budget process, the activity manager considers all these factors except the",
+      "choices": ["Desired construction and facility alterations", "Need for new equipment or repair of existing equipment", "Amount of non appropriated funds (NAF) available.", "Mission changes that will affect base population operations."],
+      "answer": 2
+    },
+    {
+      "question": "What is not an additional source of non appropriated funds (NAF)?",
+      "choices": ["Surcharges", "Donations", "Local fees and charges", "Army and Air Force Exchange Service (AAFES) dividends."],
+      "answer": 0
+    },
+    {
+      "question": "At base level, who is the single custodian for all non appropriated fund (NAF) assets, unless another individual is appointed as directed by Air Force Instruction (AFI) 34-201, Use of Non-appropriated Funds (NAFS)?",
+      "choices": ["Supervisor", "Flight chief", "Resource manager (RM)", "Force support squadron commander."],
+      "answer": 2
+    },
+    {
+      "question": "In what situation do you not use individual service contracts?",
+      "choices": ["When the contract is less than one year.", "When the contract will be paid on a per job basis.", "When the service will only be provided on time.", "For services that the individual is obligated to provide the non-appropriated funds instrumentality (NAFI) as a result of his or her military or civilian employee positions."],
+      "answer": 3
+    },
+    {
+      "question": "Which type of contract is awarded to specified individuals for their unique skills, experience, or knowledge in performing a service for the non-appropriated fund instrumentality (NAFI)?",
+      "choices": ["Non personal services", "On-call service", "One-time service", "Individual service"],
+      "answer": 3
+    },
+    {
+      "question": "What type of contract is negotiated for services that do not require unique skills?",
+      "choices": ["Incentive", "Concessionaire", "Individual Service", "Non-personal service."],
+      "answer": 3
+    },
+    {
+      "question": "What type of contract is designed to motivate contractors efforts and discourage contractor inefficiency?",
+      "choices": ["Concessionaire", "Incentive", "Individual services", "Non personal service"],
+      "answer": 1
+    },
+    {
+      "question": "When developing a contract, what might also be needed?",
+      "choices": ["Contract contingency clause", "Individual service contract", "Airmen", "Legal representation"],
+      "answer": 0
+    },
+    {
+      "question": "Who must remain neutral when dealing with contract-related labor disputes that may occur on Air Force (AF) installations?",
+      "choices": ["AF", "Contractor", "Civil Engineer", "Facility manager"],
+      "answer": 0
+    },
+    {
+      "question": "Who provides accounting support to the force support squadron (FSS)?",
+      "choices": ["Non-appropriated fund (NAF) accounting office (AO) personnel.", "Resource manager", "Non-appropriated fund (NAF) resale operations personnel.", "Non-appropriated fund (NAF) activity manager"],
+      "answer": 0
+    },
+    {
+      "question": "When accounting for assets, which assets require internal controls?",
+      "choices": ["Cash or cash equivalents and resale merchandise only.", "Cash or cash equivalents and fixed assets only.", "Cash or cash equivalents, fixed assets, resale merchandise, and consumable supplies only.", "Cash or cash equivalents, fixed assets, resale merchandise, consumable supplies and securities."],
+      "answer": 3
+    },
+    {
+      "question": "Who signs receipts to establish accountability for cash and property transferred to his or her custody?",
+      "choices": ["Each individual", "Supervisor", "Flight chief", "Squadron commander"],
+      "answer": 0
+    },
+    {
+      "question": "According to air force manual (AFMAN) 34-202, procedures for protecting non-appropriated fund assets, who approves funds storage limits?",
+      "choices": ["Non-appropriated fund (NAF) accounting officer (AO).", "Resource manager", "Squadron commander", "Installation commander"],
+      "answer": 3
+    },
+    {
+      "question": "The use of marked money is required when storing a minimum of how much funds overnight.",
+      "choices": ["$9,000", "$8,500", "$8,000", "$7,500"],
+      "answer": 3
+    },
+    {
+      "question": "How often do activity managers make deposits to the central cashier or financial institution to keep cash on hand to a minimum?",
+      "choices": ["Daily", "Weekly", "Monthly", "Quarterly"],
+      "answer": 0
+    },
+    {
+      "question": "The resource management flight chief (RMFC) uses which air force (AF) form to maintain change and impress fund cash accountability at all times?",
+      "choices": ["1875", "1876", "2556", "2557"],
+      "answer": 3
+    },
+    {
+      "question": "The primary consideration during a robbery is.",
+      "choices": ["Safeguarding of human life", "Activating the robbery alarm", "Giving the robber marked money", "To remember in which direction the robber went."],
+      "answer": 0
+    },
+    {
+      "question": "When it is safe, who should you inform that a robbery has been committed?",
+      "choices": ["Supervisor", "Security forces", "Activity manager", "Squadron commander"],
+      "answer": 1
+    },
+    {
+      "question": "As the person on duty, what action should you take concerning the witnesses of the robbery?",
+      "choices": ["Discuss details with them", "Take their written statements", "Record their names and addresses", "Have them gather up all evidence at the scene"],
+      "answer": 2
+    },
+    {
+      "question": "Who is responsible to prevent and report losses?",
+      "choices": ["Military personnel", "Military and civilian personnel", "Civilian personnel only", "Civilian and security forces (SF) personnel."],
+      "answer": 1
+    },
+    {
+      "question": "For losses up to and including $50, who conducts and informal review and files the documentation in the activity.",
+      "choices": ["Combat support flight chief", "Resource manager (RM)", "Activity manager", "Supervisor"],
+      "answer": 2
+    },
+    {
+      "question": "For losses that exceed $1,000, who appoints an investigating officer?",
+      "choices": ["Force support squadron (FSS) commander", "Sustainment flight chief", "Resource manager (RM)", "Installation commander"],
+      "answer": 3
+    },
+    {
+      "question": "For losses from $50.01 to $250, the activity manager conducts a review and provides a brief written explanation to the",
+      "choices": ["Resource manager", "Installation commander", "Combat support flight chief", "Force support squadron (FSS) commander."],
+      "answer": 0
+    },
+    {
+      "question": "Who approves operating instructions (OI) establishing procedures for the use of impress funds?",
+      "choices": ["Supervisors", "Activity managers", "Resource manager (RM)", "Non-appropriated fund financial analyst (NAFFA)"],
+      "answer": 2
+    },
+    {
+      "question": "When replacing equipment to modernize, the justification must describe/promote efficiency in money, manpower,",
+      "choices": ["Time, and ease of use.", "Time, and productivity", "Productivity and useful life.", "Productivity and ease of use."],
+      "answer": 1
+    },
+    {
+      "question": "Facility Category A funding for facility improvements are for mission-sustaining facilities such as fitness centers, community activity centers,",
+      "choices": ["Libraries, and intramural sports fields.", "Family camps, and aero clubs", "Youth activities, and pools", "Clubs, and golf courses."],
+      "answer": 0
+    },
+    {
+      "question": "After purchasing a new piece of equipment, when should a replacement item be programmed into the long-range capital improvement plan (LRCIP)?",
+      "choices": ["Immediately", "One year", "Three years", "Five years"],
+      "answer": 0
+    },
+    {
+      "question": "When replacing equipment, condemnation occurs when",
+      "choices": ["A newer model is available", "Deemed unusable by staff", "The item can be repaired, but funds are not available", "The cost of repair exceeds the maximum repair allowance."],
+      "answer": 3
+    },
+    {
+      "question": "What is critical in the beginning phase of facility improvement projects?",
+      "choices": ["Identify the fund source", "Proper justification", "Annual inspection", "Approved sources"],
+      "answer": 2
+    },
+    {
+      "question": "What resource is a detailed manpower listing that reflects the distribution of manpower allocations into a finite structure of authorizations by work center?",
+      "choices": ["Unit personnel management roster (UPMR)", "Unit manpower document (UMD)", "Unit authorization file", "Alpha roster"],
+      "answer": 1
+    },
+    {
+      "question": "Which resource contains line descriptions that show current and future positions of unit personnel?",
+      "choices": ["Base level service delivery model (BLSDM)", "Unit personnel management roster (UPMR)", "Unit manpower Document (UMD)", "Personnel data system (PDS)"],
+      "answer": 1
+    },
+    {
+      "question": "How many days annually can the air force (AF) use non-extended active duty officers and airmen as military personnel appropriation (MPA) man-days to meet short-term needs?",
+      "choices": ["89", "139", "179", "365"],
+      "answer": 1
+    },
+    {
+      "question": "What description is considered a statement of major duties responsibilities and supervisory relationships of a position?",
+      "choices": ["Position description", "Duty description", "Task description", "Job description"],
+      "answer": 0
+    },
+    {
+      "question": "A regular non-appropriated funds (NAF) employee is guaranteed how many hours a week?",
+      "choices": ["10 to 15", "15 to 20", "20 to 40", "Over 40"],
+      "answer": 2
+    },
+    {
+      "question": "What action is the primary purpose of the temporary memorandum of agreement (T-MOA)?",
+      "choices": ["Sustainment", "Dollar savings", "Manpower makeup during deployments", "Manpower makeup during short periods of appropriated funds (APF) manpower shortfalls."],
+      "answer": 0
+    },
+    {
+      "question": "One of the primary goals of the marketing program is to",
+      "choices": ["Create more traffic in our facilities", "Sell services programs to potential customers", "Generate more revenue for base morale programs", "Recognize the needs and expectations of customers."],
+      "answer": 3
+    },
+    {
+      "question": "The services marketing program office supports force support squadron (FSS) commanders or directors, flight chiefs, and activity managers by adopting what kind of marketing practices?",
+      "choices": ["Sound", "Internet", "Indigent", "Inexpensive"],
+      "answer": 0
+    },
+    {
+      "question": "Information pertaining to services, programs and events can be posted on the web or the internet as allowed by the",
+      "choices": ["Facility manager", "Marketing manager", "Marketing policy", "Local base policy"],
+      "answer": 3
+    },
+    {
+      "question": "Which is not a general guideline for advertising using media other than direct mail?",
+      "choices": ["Arrange for advertising produced for distribution on the installation", "Prepare advertising media directed at local customers", "Distribute advertising through formal base channels", "Accept voluntarily initiated media from suppliers."],
+      "answer": 2
+    },
+    {
+      "question": "Marketing is restricted from purchasing advertising space for",
+      "choices": ["Special programs", "Limited sale items", "Lunch meal menus", "Alcoholic beverages"],
+      "answer": 3
+    },
+    {
+      "question": "Direct mail advertising is sent to force support squadron (FSS) customers who",
+      "choices": ["Have voluntarily signed up to receive direct mail information", "Have previously utilized the services offered", "Have never used the services offered", "Live in the local area."],
+      "answer": 0
+    },
+    {
+      "question": "How many special events/community-wide events should be provided annually to promote community cohesion?",
+      "choices": ["2", "4", "6", "3"],
+      "answer": 0
+    }
+  ]
+}
