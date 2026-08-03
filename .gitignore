@@ -1,0 +1,16 @@
+# Built distributable binaries (rebuild via the commands in README.md)
+/dist/
+
+# Go build artifacts
+*.exe
+*.test
+*.out
+
+# Local study progress, in case the app is ever run from within the repo
+.3f1_cdc_stats.json
+
+# IDE
+.idea/
+
+# OS cruft
+.DS_Store
