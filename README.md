@@ -1,7 +1,7 @@
 # 3F1 CDC Study Helper
 
 A simple study program for the 3F1 Career Development Course (CDC). It quizzes
-you on Modules 1–3, tells you the right answer when you miss one, and
+you on Modules 1–4, tells you the right answer when you miss one, and
 automatically brings missed questions back around in future sessions so they
 stick.
 

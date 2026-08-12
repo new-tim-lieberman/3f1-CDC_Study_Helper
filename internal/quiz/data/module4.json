@@ -1,0 +1,816 @@
+{
+  "id": 4,
+  "name": "Module 4",
+  "questions": [
+    {
+      "question": "The unit deployment manager (UDM) provides quarterly training status updates to the",
+      "choices": [
+        "Flight chief.",
+        "Major command (MAJCOM).",
+        "Installation deployment officer.",
+        "Force support squadron (FSS) commander."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The mobility A-Bag contains",
+      "choices": [
+        "A parka, gloves, boots, socks, and other cold weather items.",
+        "A protective mask, mask filters, gloves, hoods, boots, and detection papers.",
+        "An M–9 or M–16, six ammo clips, ammunition, and night vision scope.",
+        "A helmet, web belt, body armor, sleeping bag, canteen kit, and a mess kit."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is required to develop a written family care plan and document it on an Air Force (AF) Form 357, Family Care Certification?",
+      "choices": [
+        "All Air Force members.",
+        "Members with civilian spouses.",
+        "All Air Force contractors and civilians.",
+        "Single parents, dual military couples with dependents, and members with civilian spouses who have unique situations."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Air Force assesses readiness, determines budgetary allocations, and manages how actions impact unit level readiness using information from",
+      "choices": [
+        "Unit type codes (UTC).",
+        "The personnel accounting symbol (PAS).",
+        "The Status of Resources and Training System (SORTS).",
+        "The designed operational capability (DOC) statement."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A fundamental premise of the Status of Resource and Training System (SORTS) is",
+      "choices": [
+        "Integrity.",
+        "Service before self.",
+        "Excellence in all we do.",
+        "Pride in one’s self and unit."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who can provide supplies or services from agencies outside your contingency operation?",
+      "choices": [
+        "Nonappropriated funds (NAF) custodian.",
+        "Appropriated fund (APF) custodian.",
+        "Base contracting officer.",
+        "Supply officer."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who opens a new case file and documents pertinent information when notified of an active duty death?",
+      "choices": [
+        "Mortuary officer.",
+        "Family assistance representative (FAR).",
+        "Base commander of the deceased.",
+        "Person authorized direct disposition (PADD)."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Air Force Survivor Assistance Program (AFSAP) marshals available resources to support the",
+      "choices": [
+        "Family.",
+        "Deceased.",
+        "Commander.",
+        "Family assistance representative (FAR)."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mortuary case files are retained for the current year plus",
+      "choices": [
+        "1 year.",
+        "2 years.",
+        "3 years.",
+        "4 years."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eligible personnel are provided with professional mortuary services, supplies, and related services during peacetime, contingency, or wartime operations through what program?",
+      "choices": [
+        "Current death.",
+        "Mortuary affairs.",
+        "Veteran Services.",
+        "Survivor assistance program."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which program is the preferred method of handling remains during periods of conflict?",
+      "choices": [
+        "Current death.",
+        "Mortuary affairs.",
+        "Concurrent return.",
+        "Temporary interment."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is required to declare death at the casualty collection point (CCP)?",
+      "choices": [
+        "The non-commissioned officer in charge (NCOIC).",
+        "Survival recovery center (SRC).",
+        "Competent medical authority.",
+        "The officer in charge (OIC)."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Port mortuary services specialty teams receive remains at",
+      "choices": [
+        "Joint Base McGuire-Dix-Lakehurst, New Jersey.",
+        "Shaw Air Force Base (AFB), South Carolina.",
+        "Seymour Johnson AFB, North Carolina.",
+        "Dover AFB, Delaware."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When do you wash remains?",
+      "choices": [
+        "Never.",
+        "Always.",
+        "When an aircraft is not leaving within 1 hour.",
+        "When an aircraft is not leaving within 2 hours."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What program is used as a last resort to protect the health and safety of personnel and is only initiated when the tactical situation precludes the return of remains?",
+      "choices": [
+        "Current death.",
+        "Mortuary affairs.",
+        "Concurrent return.",
+        "Temporary interment."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Given the types of soil and local conditions for the temporary interment site, who determines what equipment available on station is adequate to the task?",
+      "choices": [
+        "Host nation environmental protection agency.",
+        "Bioenvironmental flight chief.",
+        "Department of Agriculture.",
+        "Civil engineers."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When can remains be shipped without processing?",
+      "choices": [
+        "Never.",
+        "Always.",
+        "When an aircraft leaves within 2 hours.",
+        "When an aircraft leaves within 3 to 5 hours."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who grants permission for temporary interment?",
+      "choices": [
+        "Unit commander.",
+        "Installation commander.",
+        "Force support commander.",
+        "Geographic combatant commander."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Services Control Center provides higher headquarters with a situation report (SITREP) of the mortuary affairs activity at the end of each",
+      "choices": [
+        "Hour.",
+        "Day.",
+        "Week.",
+        "Month."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What personnel cannot determine if/when the area is safe to conduct search and recovery (S&R) operations during non-hostile conditions?",
+      "choices": [
+        "Nuclear, biological, and chemical (NBC).",
+        "Explosive ordnance disposal (EOD).",
+        "Temporary interment site members.",
+        "Security forces."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The principles of the Air Force Survivor Assistance Program (AFSAP) are timeliness, relevance, and",
+      "choices": [
+        "Compassion.",
+        "Sympathy.",
+        "Empathy.",
+        "Care."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A family assistance representative (FAR) must be assigned within how many hours of a death notification?",
+      "choices": [
+        "12.",
+        "24.",
+        "36.",
+        "48."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The family assistance representative (FAR) should contact the family",
+      "choices": [
+        "Daily.",
+        "Weekly.",
+        "Monthly.",
+        "Quarterly."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When conducting military honors how many Airmen make up the color guard?",
+      "choices": [
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of flag case is presented to the deceased member’s family?",
+      "choices": [
+        "Pewter and glass.",
+        "Smooth plastic.",
+        "Polished metal.",
+        "Hardwood."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Within the continental United States (CONUS) how many copies of the certified state death certificate are given to the person authorized direct disposition (PADD)?",
+      "choices": [
+        "1.",
+        "5.",
+        "10.",
+        "15."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many escorts accompany the remains from the shipping facility to the final destination when these sites are not located in the same place?",
+      "choices": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is not an authorized method of transporting remains in the continental United States (CONUS)?",
+      "choices": [
+        "Commercial aircraft.",
+        "Government aircraft.",
+        "Hearse or service car.",
+        "Chartered or private aircraft."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Eligible personnel are entitled to how many military funeral honors (MFH), ceremonies, or services?",
+      "choices": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who ensures that a government purchase card account is established for mortuary expenses?",
+      "choices": [
+        "Installation commander.",
+        "Contracting officer.",
+        "Resource manager.",
+        "Mortuary officer."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who manages search and recovery (S&R) operations and is authorized to task members of other organizations as augmentees?",
+      "choices": [
+        "Communications squadron.",
+        "Security forces squadron.",
+        "Civil engineer squadron.",
+        "Force support squadron."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Remains must be refrigerated at",
+      "choices": [
+        "32 to 34 degrees Fahrenheit (F).",
+        "36 to 38 degrees F.",
+        "38 to 40 degrees F.",
+        "40 to 42 degrees F."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During the recovery process of a search and recovery (S&R) operation, the letter “P” on a remains tag denotes",
+      "choices": [
+        "Partial remains.",
+        "Packaged remains.",
+        "Preserved effects.",
+        "Personal effects."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who evaluates the performance of the search and recovery team during base level or training exercises?",
+      "choices": [
+        "Mortuary non-commissioned officer in charge (NCOIC).",
+        "Installation commander.",
+        "Flight commander.",
+        "Mortuary officer."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many items must be considered before starting search and recovery (S&R) operations?",
+      "choices": [
+        "10.",
+        "11.",
+        "12.",
+        "13."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During peacetime search and recovery (S&R) operations, who coordinates with the civil engineers to determine search areas?",
+      "choices": [
+        "Medical officer.",
+        "Mortuary officer.",
+        "Force support commander.",
+        "Search and recovery team leader."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During search and recovery (S&R) operations all items are removed from remains except",
+      "choices": [
+        "Classified material.",
+        "Accouterments.",
+        "Ordnance.",
+        "Weapons."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When a fatality mishap occurs what agency is notified in order to make a fatality search and recovery team (FSRT) determination?",
+      "choices": [
+        "Headquarters United States Air Force (HQ USAF).",
+        "HQ USAF Directorate of Services (HQ USAF/A1S).",
+        "Major Command Services (MAJCOM/SV).",
+        "Air Force Mortuary Affairs (AFMAO)."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many members staff a fatality search and recovery team (FSRT)?",
+      "choices": [
+        "4.",
+        "8.",
+        "10.",
+        "12."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many individuals of the 26-person peacetime search and recovery (S&R) team does the mortuary officer ensure are trained as S&R team leaders, flankers, and in recovered remains and tagging procedures?",
+      "choices": [
+        "8.",
+        "10.",
+        "12.",
+        "14."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who educates and trains search and recovery (S&R) team members on the use, maintenance, and care of respirators used to protect against the inhalation of harmful atmospheres?",
+      "choices": [
+        "Medical officer.",
+        "Mortuary officer.",
+        "Bioenvironmental engineer.",
+        "Readiness non-commissioned officer in charge (NCOIC)."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During peacetime search and recovery (S&R), who provides global positioning system and/or optical survey equipment and trained personnel to plot remains, personal effects, and aircraft wreckage?",
+      "choices": [
+        "Force Support.",
+        "Security Forces.",
+        "Civil Engineers.",
+        "Mortuary Affairs."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During the recovery phase of a search and recovery (S&R) event how many tags are used for each set of remains found?",
+      "choices": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Home station and readiness training (HSRT) has how many tiers?",
+      "choices": [
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who must complete home station and readiness training (HSRT)?",
+      "choices": [
+        "Subject-to-deploy personnel.",
+        "Personnel in upgrade training.",
+        "Identified-to-deploy personnel.",
+        "All force support squadron (FSS) personnel."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What document outlines the doctrinal concept and planning guidance for worldwide Air Force Services combat support throughout the spectrum of conflict from small scale contingency operations through major regional war?",
+      "choices": [
+        "Air Force Handbook (AFH), Volume 1, Guide to Services Contingency Planning: Beddown.",
+        "Air Force Instruction (AFI) 10–214, Air Force Prime RIBS Program.",
+        "AFI 10–403, Deployment Planning and Execution.",
+        "War and Mobilization Plan 1 (WMP–1)."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In War and Mobilization Plan 1 (WMP–1), the Services force is composed of active duty, Air Force Reserve (AFR)",
+      "choices": [
+        "And Air National Guard (ANG) officers, non-commissioned officers (NCO), and Airmen.",
+        "And ANG officers, NCOs, Airmen, and civilians in functional areas.",
+        "And ANG officers, NCOs, Airmen, and all civilians.",
+        "Officers and enlisted Airmen."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which force module (FM) is only deployed to locations where sustainment operations are expected to continue for more than 45 days?",
+      "choices": [
+        "Open the Base.",
+        "Operate the Base.",
+        "Establish the Base.",
+        "Command and Control (C2)."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which force module (FM) includes learning resource center (LRC) operations?",
+      "choices": [
+        "Open the Base.",
+        "Operate the Base.",
+        "Establish the Base.",
+        "Robust the Airbase."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Deployment beddown planning should be in concert with",
+      "choices": [
+        "Force module concepts.",
+        "The deployment cycle.",
+        "Command and control (C2).",
+        "Bare base (BB) requirements."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which unit type code (UTC) may be doubled or tripled to increase capabilities?",
+      "choices": [
+        "RFSRB.",
+        "RFSRL.",
+        "RFL14.",
+        "RFL05."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which force module (FM) includes unit type codes (UTC) with resources to make the beddown forces operationally capable?",
+      "choices": [
+        "Open the Base.",
+        "Operate the Base.",
+        "Establish the Base.",
+        "Command and Control (C2)."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which unit type code (UTC) is a specialized follow-on services and education services team?",
+      "choices": [
+        "Learning resource center (LRC).",
+        "Recreation.",
+        "Readiness.",
+        "Fitness."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which unit type code (UTC) provides nonappropriated fund instrumentality (NAFI) management for a population of 1,100?",
+      "choices": [
+        "RFSRB.",
+        "RFSRL.",
+        "RFL14.",
+        "RFL05."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Where is time-phased force data, non-unit-related cargo and personnel data, and movement data for the operation plan (OPLAN) found?",
+      "choices": [
+        "Unit line number (ULN).",
+        "Force requirement number (FRN).",
+        "Time-phased force deployment data (TPFDD).",
+        "Joint Operation Planning and Execution System (JOPES)."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "More than one time-phased force deployment data (TPFDD) entry may be required for a force requirement due to",
+      "choices": [
+        "Split sourcing.",
+        "Multiple pallets.",
+        "Multiple delivery dates.",
+        "The need for more than one aircraft."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What percent of the time-phased force deployment data (TPFDD) feeding population is used to determine Services’ support capability?",
+      "choices": [
+        "100.",
+        "90.",
+        "80.",
+        "75."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who provides direction to the unit control center (UCC)?",
+      "choices": [
+        "Base commander.",
+        "Group commander.",
+        "Force support commander.",
+        "Readiness officer in charge."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What information is not included in an after-action report?",
+      "choices": [
+        "Number of fatalities.",
+        "Location of the incident.",
+        "Start and end date of the operation.",
+        "Number of participants from each squadron."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "After action reports provide",
+      "choices": [
+        "A method to communicate to the next deployment team.",
+        "A permanent record of how successful your deployment was.",
+        "Final accounting data showing overall profit or loss during the operation.",
+        "A method to identify and correct problems; and disseminate results to improve the activity."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Deployment requirements manning document (DRMD) dictates to units the",
+      "choices": [
+        "Tasking to fill.",
+        "Manning requirements.",
+        "Number of enlisted to deploy.",
+        "Number of officers to deploy."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The deployment requirements manning document (DRMD) defines how a unit is structured in",
+      "choices": [
+        "Rank and position.",
+        "Rank and time-in-grade.",
+        "Position and time-in-grade.",
+        "Position and time-in-service."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The tent, expandable, modular, personnel (TEMPER) component that provides increased environmental protection is the tent’s",
+      "choices": [
+        "Fly.",
+        "Plenum.",
+        "Top cover.",
+        "Door with zippers."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the approximate inside measurement when squaring off a small shelter system?",
+      "choices": [
+        "32 feet and 6 inches.",
+        "34 feet and 3 inches.",
+        "36 feet and 6 inches.",
+        "38 feet and 3 inches."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Services’ highest priority during wartime combat support is",
+      "choices": [
+        "Humanitarian operations in all overseas theaters of operation.",
+        "Providing support for strategic offensive and defensive missions.",
+        "Deploying military personnel on prime readiness in base services (RIBS) teams.",
+        "Maintaining a force capable of carrying out the wartime support requirements other than strategic mission support."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a wartime environment, where possible, levels of service increase commensurate with quality of life programs after",
+      "choices": [
+        "M+15.",
+        "M+30.",
+        "M+45.",
+        "M+60."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The base support plan (BSP) is reviewed",
+      "choices": [
+        "Monthly.",
+        "Annually.",
+        "Bi-monthly.",
+        "Bi-annually."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What document defines if the host base provides food, dining facilities, equipment, and manpower at collocated operating bases (COB)?",
+      "choices": [
+        "Base support plan (BSP).",
+        "Mission capability statement.",
+        "War Mobilization Plan 1 (WMP–1).",
+        "Joint Strategic Capabilities Plan (JSCP)."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who can provide you with a base map or GeoBase data?",
+      "choices": [
+        "Security forces.",
+        "Civil engineering.",
+        "Logistics readiness.",
+        "Data automation office."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person who has never worked in an area needs what type of continuity folder?",
+      "choices": [
+        "Detailed, yet simple to understand.",
+        "A complex and concise set of instructions.",
+        "Procedures and practices that are normally not site specific.",
+        "Guidance that follows Air Force guidance and supersedes local policy."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organization provides force support squadron (FSS) with banking support in a deployed environment?",
+      "choices": [
+        "FSS resource management.",
+        "Deployed finance facility.",
+        "FSS command section.",
+        "Base contracting."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which recreation support do we establish during an environment of low hostilities?",
+      "choices": [
+        "Recreation tent, library, resale, and movie operation.",
+        "Recreation tent, paperback books, and videos.",
+        "Self-directed programs, leagues, and tournaments.",
+        "Self-directed programs and a fitness center (FC) facility."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Multiple cashiers can work out of a single cash register in",
+      "choices": [
+        "Small activities with annual revenue under $12,000.",
+        "Large activities with annual revenue under $12,000.",
+        "Small activities with annual revenue over $12,000.",
+        "Large activities with annual revenue over $12,000."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Army and Air Force Exchange Service (AAFES) goal is to have direct operation exchange—tactical (DOX-T) in place within",
+      "choices": [
+        "15 days.",
+        "30 days.",
+        "45 days.",
+        "60 days."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How do you plan your recreation programs during contingencies?",
+      "choices": [
+        "Based on location, number of personnel, and climate only.",
+        "Based on location, number of personnel, climate, and the length of deployment.",
+        "During surges, the on site commander determines the basis of all recreational programs.",
+        "In the initial phase, the on site commander determines the basis of all recreational programs."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The force support squadron (FSS) schedules distinguished visitor appearances and entertainment through",
+      "choices": [
+        "The deployed major command (MAJCOM).",
+        "The Air Force Personnel Center (AFPC).",
+        "Army Morale, Welfare and Recreation.",
+        "Armed Forces Entertainment (AFE)."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which library support do we establish during a low hostilities environment?",
+      "choices": [
+        "Paperback book only.",
+        "Paperback book and periodical kit only.",
+        "Paperback book and periodical kit; videos (20 per 100 people); compact discs (CD) (10 per 100 people).",
+        "Paperback book and periodical kit; Defense Activity for Non-Traditional Education Support Subject Standardized Tests (DSST) and College Level Examination Program (CLEP)."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Typically, the unit type code (UTC) for the learning resource center (LRC) is sourced how many days after the beddown has been opened?",
+      "choices": [
+        "90.",
+        "120.",
+        "150.",
+        "180."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who provides library kits at deployed locations?",
+      "choices": [
+        "Home station librarian.",
+        "Nonappropriated funds instrumentality.",
+        "Army and Air Force Exchange Service (AAFES).",
+        "Command librarian or designated support command librarian."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which office issues guidance on controlling, selling, procuring, and using alcoholic beverages?",
+      "choices": [
+        "Army and Air Force Exchange Service commander (AAFES/CC).",
+        "Air Force Personnel Center, Services commander (AFPC/SV CC).",
+        "Major command commander (MAJCOM/CC).",
+        "Headquarters United States Air Force Directorate of Services (HQ USAF/A1S)."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who ensures that the dram shop statement is signed by all Army and Air Force Exchange Service (AAFES) employees?",
+      "choices": [
+        "Force support squadron (FSS) commander.",
+        "AAFES commander.",
+        "Activity managers.",
+        "Flight chiefs."
+      ],
+      "answer": 1
+    }
+  ]
+}

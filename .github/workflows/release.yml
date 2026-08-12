@@ -3,11 +3,18 @@ name: Release
 # Builds the Windows and Mac binaries and attaches them to a GitHub Release
 # whenever a version tag (e.g. v1.0.0) is pushed. See README.md for how
 # non-technical users download them from the Releases page.
+#
+# Can also be run manually from the Actions tab ("Run workflow") to rebuild
+# and republish an existing tag's release without re-pushing the tag -- when
+# running manually, use the "Use workflow from" dropdown to pick the tag
+# (e.g. v1.0.0), not a branch, so the release gets published under that
+# tag's name instead of the branch's.
 
 on:
   push:
     tags:
       - "v*"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -36,6 +43,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          gh release delete "${{ github.ref_name }}" --yes --cleanup-tag=false || true
           gh release create "${{ github.ref_name }}" \
             dist/3F1-CDC-Study-Windows.exe \
             dist/3F1-CDC-Study-Mac \
