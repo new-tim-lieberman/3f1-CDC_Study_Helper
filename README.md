@@ -129,7 +129,7 @@ automatically whenever a version tag is pushed:
 
 ```
 git tag v1.2.0
-git push origin v1.0.0
+git push origin v1.2.0
 ```
 
 That's the link the "Getting the app" section above sends non-technical
