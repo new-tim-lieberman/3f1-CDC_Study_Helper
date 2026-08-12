@@ -69,6 +69,7 @@ Available modules:
   1) Module 1 (79 questions)
   2) Module 2 (90 questions)
   3) Module 3 (40 questions)
+  4) Module 4 (81 questions)
   0) All modules
   r) Review due questions (12 due)
   q) Quit
@@ -127,7 +128,7 @@ the [Releases page](https://github.com/new-tim-lieberman/3f1-CDC_Study_Helper/re
 automatically whenever a version tag is pushed:
 
 ```
-git tag v1.0.0
+git tag v1.2.0
 git push origin v1.0.0
 ```
 
