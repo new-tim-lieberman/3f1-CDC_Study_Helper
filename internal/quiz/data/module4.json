@@ -540,7 +540,7 @@
         "RFL14.",
         "RFL05."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "Where is time-phased force data, non-unit-related cargo and personnel data, and movement data for the operation plan (OPLAN) found?",
@@ -700,7 +700,7 @@
         "Procedures and practices that are normally not site specific.",
         "Guidance that follows Air Force guidance and supersedes local policy."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "question": "Which organization provides force support squadron (FSS) with banking support in a deployed environment?",
